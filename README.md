@@ -16,7 +16,7 @@
 ## 🙋‍♂️ About Me
 
 - 🏷️ **Role:** Software Engineer  
-- 💡 **Languages:** JavaScript, Python, C++, Rust  
+- 💡 **Languages:** JavaScript, Python, C/C++, Rust  
 - 🎯 **Mission:** Making apps that can simplify things
 
 ---
